@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel target="17">
+      <module name="ejemplp05_quarkus.ejemplo05_author.main" target="17" />
+      <module name="ejemplp05_quarkus.ejemplo05_author.test" target="17" />
+      <module name="ejemplp05_quarkus.ejemplp05_quarkus.integrationTest~1" target="17" />
+      <module name="ejemplp05_quarkus.ejemplp05_quarkus.main~1" target="17" />
+      <module name="ejemplp05_quarkus.ejemplp05_quarkus.native-test~1" target="17" />
+      <module name="ejemplp05_quarkus.ejemplp05_quarkus.quarkus-generated-sources~1" target="17" />
+      <module name="ejemplp05_quarkus.ejemplp05_quarkus.quarkus-test-generated-sources~1" target="17" />
+      <module name="ejemplp05_quarkus.ejemplp05_quarkus.test~1" target="17" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

@@ -1,0 +1,28 @@
+TRAEFIK:
+
+------------------------------
+
+Ejecutar:
+    traefik -api.insecure true
+
+consola:
+    localhost:8080/dashboard
+
+CONSUL:
+-------------------------------
+Ejecutar:
+ consul agent -dev
+
+ Consola:
+    localhost:8500
+
+ APLICACIONES:
+ -----------------------
+ java -Dquarkus.http.port=9091 -jar build/quarkus-app/quarkus-run.jar
+
+ Docker:
+
+
+ Docker compose:
+ ----------
+ docker-compose up -d
